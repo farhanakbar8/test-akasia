@@ -1,0 +1,5 @@
+akasia_data/
+data/
+*.json
+*.parquet
+*.save
